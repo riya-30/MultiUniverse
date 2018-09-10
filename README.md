@@ -1,0 +1,2 @@
+# MultiUniverse
+There are multiple parallel universes. Each person in a universe has a identity `id` and a power. Power can be positive or negative. All people are divided into families identified by `family_id`. A special creature from 4th dimension has been given a task to  List families in a particular universe Check if families with same identifiers have same power in all universes Find unbalanced families and balance them You have to help him by providing REST API to store the data of universes and to do the above tasks. 
